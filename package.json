@@ -1,0 +1,24 @@
+{
+  "name": "@vibeasd/eslint-config-for-angular",
+  "version": "1.0.0",
+  "description": "This is an additional Eslint configuration for Angular projects.",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [
+    "eslint config",
+    "typescript"
+  ],
+  "author": {
+    "name": "Bence Balazs",
+    "email": "bencebalazs1024@gmail.com",
+    "url": "https://github.com/Vibeasd"
+  },
+  "license": "MIT",
+  "repository": {
+    "url": "https://github.com/Vibeasd/eslint-config-for-angular",
+    "type": "git"
+  },
+  "publishConfig": {
+    "access": "public"
+  }
+}
