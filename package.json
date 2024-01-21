@@ -1,6 +1,6 @@
 {
   "name": "@vibeasd/eslint-config-for-angular",
-  "version": "1.0.1",
+  "version": "1.0.3",
   "description": "This is an additional Eslint configuration for Angular projects.",
   "main": "index.js",
   "scripts": {},

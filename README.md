@@ -21,7 +21,7 @@ npm i @vibeasd/eslint-config-for-angular --save-dev
 ```json
 {
   "root": true,
-  "extends": ["@vibeasd/eslint-config-example"]
+  "extends": ["@vibeasd/eslint-config-for-angular"]
 }
 ```
 
